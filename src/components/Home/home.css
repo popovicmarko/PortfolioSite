@@ -79,7 +79,10 @@
     padding-left: 20px !important;
     text-align: left !important;
   }
-
+ #home > div{
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+}
 
 
   .heading-name {
@@ -200,10 +203,4 @@
 .icon-colour {
   color: var(--clr-primary) !important;
 }
-.cointainer{
-  padding-top: 0px !important;
-}
-#home > div{
-  padding-top: 0px !important;
-  padding-bottom: 0px !important;
-}
+
