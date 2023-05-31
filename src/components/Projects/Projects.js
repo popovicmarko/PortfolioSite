@@ -24,6 +24,15 @@ function Projects() {
               demoLink="https://bodln.github.io/MS-Projekat-3/"
             />
           </Col>
+          <Col md={6} lg={4} className="project-card">
+            <ProjectCard
+              imgPath={Shop}
+              title="Online Shop"
+              description="In short, the project for selling miscellaneous goods consists of a front-end part that allows users to view, search, buy and manage the user crust, providing them with an intuitive user experience and optimization for mobile devices."
+              ghLink="https://github.com/popovicmarko/OnlineShoping.git"
+              demoLink="https://onlineshoping.pages.dev/"
+            />
+          </Col>
         </Row>
       </Container>
       <ScrollToTop />
