@@ -3,6 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ScrollToTop from "../ScrollToTop/ScrollToTop";
 import ProjectCard from "./ProjectCards";
 import Ecart from "../../Assets/Projects/AseblyAsisstent.png";
+import Shop from "../../Assets/Projects/shop.png";
 
 import "./project.css";
 
