@@ -34,7 +34,7 @@ function App() {
   return (
     <div className={`${themename} app`}>
       <Helmet>
-        <title>Naslov stranice</title>
+        <title>Marko Popovic</title>
         <meta name="description" content="Dobrodošli na moj portfolio sajt! Ja sam softverski inženjer i student treće godine softverskog inženjerstva. Ovde možete pronaći informacije o meni, moje veštine, projekte na kojima sam radio i iskustvo koje sam stekao. Pogledajte moj portfolio i saznajte više o mojim dostignućima i radovima u oblasti softverskog razvoja." />
         <meta name="keywords" content="Marko Popovic, programer, Tutin, Marko Popovic Tutin, Novi Pazar, Novi Pazar Marko, DUNP, Drzavni Univerzitet u Novom Pazaru, NIT, Centar Nit, Marko Popović, Softverski inženjer, Student softverskog inženjerstva, Portfolio sajt, Programer, Web development, Frontend development, Backend development" />
         <meta property="og:title" content="Marko Popovic" />
